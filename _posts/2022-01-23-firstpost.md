@@ -1,3 +1,10 @@
+--------
+layout: post
+title: First demo blog post!
+published: true
+tags: demo markdown blog
+--------
+
 # Hi This is my first post
 
 ![](https://unsplash.com/photos/ch9fbuBmjds/download?ixid=MnwxMjA3fDB8MXx0b3BpY3x8eGpQUjRobGtCR0F8fHx8fDJ8fDE2NDI5NTgyOTk&force=true&w=2400)
